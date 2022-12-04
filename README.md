@@ -1,1 +1,1 @@
-"# graphical-password" 
+# graphical-password
